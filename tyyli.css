@@ -1,0 +1,61 @@
+body {
+    font-family:Arial;
+    color:black;
+    background-color: burlywood;
+    background-image: url("MATINMATOT-tausta.jpg"); 
+    background-attachment: fixed;
+    text-decoration:none;
+    
+
+}
+
+
+
+h1 {
+    color:blanchedalmond;
+    font-size: 40px;
+    font-family: Arial; 
+    text-shadow: 6px 6px 6px gray;
+    text-decoration:none;
+
+   
+
+}
+main {
+    background-color: burlywood;
+    margin: 5px 20% 20% 20%;
+    padding: 20px 20px;
+    border: burlywood solid;
+    box-shadow: 6px 6px 6px burlywood;
+    text-align:center;
+    border-radius: 5px;
+    text-decoration:none;
+}
+.keskelle {text-align: center;}
+
+nav {
+    background-color: burlywood;
+    padding: 10px;
+    border: burlywood;
+    text-align: center;
+    margin: 0px 20% 1% 20%;
+    box-shadow: 2px 2px 2px burlywood;
+    border-radius: 5px;
+}
+nav a {
+    color: burlywood;
+    background-color: blanchedalmond;
+    padding: 10px;
+    border: burlywood 3px solid;
+    border-radius: 4% 4%;
+    display: inline-block;
+    margin: 5px;
+    text-decoration:none;
+}
+.sivulla { 
+    background-color:blanchedalmond;
+    color:darksalmon}
+.vasemmalla{
+    background-color: burlywood;
+    color: black;
+    text-align:left;}
